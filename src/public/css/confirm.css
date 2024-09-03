@@ -1,0 +1,99 @@
+.form {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+}
+
+.confirm__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+
+}
+
+
+.confirm__heading {
+    margin-bottom: 40px;
+    text-align: center;
+    color: #82756A;
+    font-size: 20px;
+}
+
+
+.confirm-table{
+
+}
+
+.confirm-table__inner{
+    width: 972px;
+        height: 606px;
+        border-color: #E0DFDE;
+}
+
+.confirm-table__row {
+    display: flex;
+    justify-content: space-between;
+    height:69.92px;
+
+}
+
+.confirm-table__text input,
+.confirm-table__text textarea {
+    padding: 10px;
+    border: 1px;
+    border-radius: 3px;
+    appearance: none;
+    color: #82756A
+}
+
+.confirm-table__text-tel input {
+    border: 1px;
+    appearance: none;
+    color: #82756A
+}
+
+
+.confirm-table__text-tel-item {
+    width: 10px;
+    display: flex;
+}
+
+.confirm-table__header {
+    text-align: left;
+    width: 30%;
+    background: #BAA899;
+    padding-left: 10px;
+    color: #fff
+}
+
+.confirm-table__text,
+.confirm-table__text-tel {
+    width: 70%;
+    text-align: left;
+    display: flex;
+}
+
+.form__button {
+    margin-top: 30px;
+}
+
+.form__button-submit {
+    padding: 10px;
+    width: 120px;
+    height: 42px;
+    border: none;
+    border-radius: 3px;
+    background: #82756A;
+    color: #fff;
+    cursor: pointer;
+}
+
+.form__button-fix {
+    padding: 10px;
+    width: 120px;
+    height: 42px;
+    border: none;
+    border-radius: 3px;
+    color: #8B7969;
+    background: #fff;
+    cursor: pointer;
+}
